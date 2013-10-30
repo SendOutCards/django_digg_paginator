@@ -2,7 +2,7 @@ Digg-like Paginator from Django Snippets
 =====================
 
 
-Originaly posted on Django snippets site by miracle2k http://blog.elsdoerfer.name/
+Originaly posted on Django snippets site by Michael Elsdörfer https://github.com/miracle2k
 
 https://djangosnippets.org/snippets/773/
 
