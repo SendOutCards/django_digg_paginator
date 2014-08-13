@@ -1,10 +1,10 @@
 from distutils.core import setup
 
-import digg_paginator
+VERSION = "0.0.1"
 
 setup(
     name = "django-digg-paginator",
-    version = digg_paginator.__version__,
+    version = VERSION,
     packages = ["django-digg-paginator"],
     url = 'https://github.com/alrusdi/django_digg_paginator',
     author = 'pixel',
