@@ -5,7 +5,7 @@ VERSION = "0.0.1"
 setup(
     name = "django-digg-paginator",
     version = VERSION,
-    packages = ["django-digg-paginator"],
+    packages = ["digg_paginator"],
     url = 'https://github.com/alrusdi/django_digg_paginator',
     author = 'pixel',
     author_email = 'ivan.n.sergeev@gmail.com',
