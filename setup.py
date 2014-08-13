@@ -5,7 +5,7 @@ import digg_paginator
 setup(
     name = "django-digg-paginator",
     version = digg_paginator.__version__,
-    packages = ["django-digg-paginator"],
+    packages = ["digg_paginator"],
     url = 'https://github.com/alrusdi/django_digg_paginator',
     author = 'pixel',
     author_email = 'ivan.n.sergeev@gmail.com',
